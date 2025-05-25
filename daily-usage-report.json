@@ -1,0 +1,50 @@
+[
+    {
+        "date": "2024-05-01",
+        "dataKilobytes": 0,
+        "callSeconds": 120,
+        "msisdn": "94710000001"
+    },
+    {
+        "date": "2024-05-01",
+        "dataKilobytes": 0,
+        "callSeconds": 60,
+        "msisdn": "94710000002"
+    },
+    {
+        "date": "2024-05-02",
+        "dataKilobytes": 0,
+        "callSeconds": 200,
+        "msisdn": "94710000003"
+    },
+    {
+        "date": "2024-05-02",
+        "dataKilobytes": 0,
+        "callSeconds": 180,
+        "msisdn": "94710000001"
+    },
+    {
+        "date": "2024-05-03",
+        "dataKilobytes": 0,
+        "callSeconds": 50,
+        "msisdn": "94710000002"
+    },
+    {
+        "date": "2025-05-01",
+        "dataKilobytes": 1000,
+        "callSeconds": 120,
+        "msisdn": "61411111111"
+    },
+    {
+        "date": "2025-05-02",
+        "dataKilobytes": 300,
+        "callSeconds": 30,
+        "msisdn": "61411111111"
+    },
+    {
+        "date": "2025-05-03",
+        "dataKilobytes": 0,
+        "callSeconds": 100,
+        "msisdn": "61411111112"
+    }
+]

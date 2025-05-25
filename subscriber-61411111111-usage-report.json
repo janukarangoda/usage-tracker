@@ -1,0 +1,12 @@
+[
+    {
+        "date": "2025-05-01",
+        "dataKilobytes": 1000,
+        "callSeconds": 120
+    },
+    {
+        "date": "2025-05-02",
+        "dataKilobytes": 300,
+        "callSeconds": 30
+    }
+]
